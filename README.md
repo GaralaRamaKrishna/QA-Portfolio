@@ -102,7 +102,7 @@ and Amount Paid = $0.00. Direct revenue loss to business.
 mobile responsiveness, workflow behavior
 
 #### 📋 Full Report
-[📥 Download QA Report PDF](./Ramakrishna_Garala_QA_Assignment_SecondBrainLabs.pdf)
+[📥 Download QA Report PDF](./https://github.com/GaralaRamaKrishna/QA-Portfolio/blob/main/Ramakrishna_Garala_QA_Assignment_SecondBrainLabs%20.pdf)
 
 ---
   
