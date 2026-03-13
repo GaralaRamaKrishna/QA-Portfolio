@@ -66,8 +66,27 @@ and Amount Paid = $0.00. Direct revenue loss to business.
 
 ---
 
-## 🛠️ Tools Used
+### 2️⃣ JSONPlaceholder API Testing
+**API Tested:** jsonplaceholder.typicode.com  
+**Tool:** Postman  
+**Date:** March 2026  
 
+#### 🧪 Test Cases Executed
+
+| # | Method | Endpoint | Expected Status | Result |
+|---|--------|----------|-----------------|--------|
+| 1 | GET | /users | 200 OK | ✅ Pass |
+| 2 | GET | /users/1 | 200 OK | ✅ Pass |
+| 3 | GET | /users/999 | 404 Not Found | ✅ Pass |
+| 4 | GET | /posts | 200 OK | ✅ Pass |
+| 5 | POST | /users | 201 Created | ✅ Pass |
+
+#### 📁 Postman Collection
+[Download Collection JSON](./JSONPlaceholder%20API%20Tests.postman_collection.json)
+
+---
+  
+## 🛠️ Tools Used
 | Tool | Purpose |
 |------|---------|
 | Jira | Bug tracking & defect management |
