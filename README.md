@@ -82,7 +82,7 @@ and Amount Paid = $0.00. Direct revenue loss to business.
 | 5 | POST | /users | 201 Created | ✅ Pass |
 
 #### 📁 Postman Collection
-[📥 Download Collection JSON](https://raw.githubusercontent.com/GaralaRamaKrishna/QA-Portfolio/main/JSONPlaceholder%20API%20Tests.postman_collection.json)
+[📥 Download Collection JSON](https://github.com/GaralaRamaKrishna/QA-Portfolio/blob/main/JSONPLaceholder%20API%20Tests.postman_collection.json)
 
 ---
   
