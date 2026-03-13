@@ -85,6 +85,26 @@ and Amount Paid = $0.00. Direct revenue loss to business.
 [📥 Download Collection JSON](https://github.com/GaralaRamaKrishna/QA-Portfolio/blob/main/JSONPLaceholder%20API%20Tests.postman_collection.json)
 
 ---
+
+### 3️⃣ SecondBrainLabs Platform QA Testing
+**Platform Tested:** app.secondbrainlabs.com
+**Tool:** Chrome DevTools | Android Chrome
+**Date:** March 2026
+
+| Metric | Count |
+|--------|-------|
+| Test Cases Executed | 10 |
+| Passed | 8 |
+| Failed | 2 |
+| Bugs Reported | 9 |
+
+**Testing Focus:** Onboarding, input validation,
+mobile responsiveness, workflow behavior
+
+#### 📋 Full Report
+[📥 Download QA Report PDF](./Ramakrishna_Garala_QA_Assignment_SecondBrainLabs.pdf)
+
+---
   
 ## 🛠️ Tools Used
 | Tool | Purpose |
