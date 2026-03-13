@@ -62,7 +62,7 @@ Checkout completed with Payment Status = Confirmed
 and Amount Paid = $0.00. Direct revenue loss to business.
 
 #### 📄 Full Bug Report
-[View PDF Bug Report](./HighScores-QA/Bug-Report.pdf)
+[📄 Download Bug Report PDF](./BugReport_HighScores_RamakrishnaGarala.pdf)
 
 ---
 
